@@ -3,6 +3,7 @@ _name=hoogle
 pkgname=hx-${_name}
 pkgver=5.0.18.4
 pkgrel=1
+pkgdesc="Haskell API Search"
 license=("BSD-3-Clause")
 arch=('x86_64')
 url="https://github.com/ndmitchell/hoogle"
